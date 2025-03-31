@@ -1,9 +1,3 @@
-Absolutely, here’s the final and properly formatted README.md that you can copy and paste directly into your GitHub repository README.md file:
-
-⸻
-
-
-
 # 🌍 Local Data Pipeline Project with Python & SQL
 
 ## 🔍 Objective
